@@ -8,7 +8,7 @@ Wordcount app
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **wordcount app** [Live Link]
+# **wordcount app** [Live Link](https://wordcountapp-1.netlify.app/)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about how to use eventlistener
