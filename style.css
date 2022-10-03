@@ -1,0 +1,35 @@
+body {
+    background-color: #107b17cd;
+  }
+  .container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  h1 {
+    font-size: 60px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .my-text {
+    font-size: 40px;
+    width: 100px;
+    height: 60px;
+    color: #fff;
+    position: relative;
+    bottom: 50px;
+  }
+  #text-area {
+    font-size: 16px;
+    border: black;
+    border-radius: 2px solid #000000;
+    position: relative;
+    bottom: 70px;
+  }
